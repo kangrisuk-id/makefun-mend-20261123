@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480">
+  <rect width="1200" height="480" fill="#0d1117"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#f0b429"/>
+  <text x="600" y="120" text-anchor="middle" font-family="monospace" font-size="92" font-weight="bold" fill="#f0b429">mend</text>
+  <text x="600" y="172" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#e6edf3">one patch tool for every AI edit format</text>
+  <g font-family="monospace" font-size="24" fill="#0d1117">
+    <rect x="90" y="230" width="225" height="64" rx="10" fill="#58a6ff"/>
+    <text x="202" y="272" text-anchor="middle">unified diff</text>
+    <rect x="350" y="230" width="225" height="64" rx="10" fill="#3fb950"/>
+    <text x="462" y="272" text-anchor="middle">SEARCH/REPLACE</text>
+    <rect x="610" y="230" width="225" height="64" rx="10" fill="#d2a8ff"/>
+    <text x="722" y="272" text-anchor="middle">V4A patch</text>
+    <rect x="870" y="230" width="225" height="64" rx="10" fill="#ffa657"/>
+    <text x="982" y="272" text-anchor="middle">JSON edits</text>
+  </g>
+  <text x="600" y="368" text-anchor="middle" font-family="sans-serif" font-size="27" fill="#e6edf3">Practice set: 100 / 100 checks exact &#183; practice score 1000 / 1000</text>
+  <text x="600" y="414" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8b949e">three-tier line matching &#183; atomic all-or-nothing writes &#183; Node 22, standard library only</text>
+</svg>
